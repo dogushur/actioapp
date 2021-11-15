@@ -1,0 +1,77 @@
+PODS:
+  - AAViewAnimator (1.0)
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - BRYXBanner (0.8.4)
+  - Cache (5.2.0)
+  - DeviceKit (2.3.0)
+  - FontAwesome.swift (1.8.3)
+  - Imaginary (4.2.0):
+    - Cache (~> 5.0)
+  - JGProgressHUD (2.1)
+  - Lightbox (2.3.0):
+    - Imaginary (~> 4.0)
+  - paper-onboarding (6.1.4)
+  - PTPopupWebView (0.4.0)
+  - PureLayout (3.1.5)
+  - SCLAlertView (0.8)
+  - SwiftyJSON (4.3.0)
+  - UIColor_Hex_Swift (4.2.0)
+
+DEPENDENCIES:
+  - AAViewAnimator (= 1.0)
+  - Alamofire (~> 4.7)
+  - AlamofireImage (~> 3.4)
+  - BRYXBanner
+  - DeviceKit (~> 2.0)
+  - FontAwesome.swift
+  - JGProgressHUD
+  - Lightbox
+  - paper-onboarding
+  - PTPopupWebView
+  - PureLayout
+  - SCLAlertView
+  - SwiftyJSON (~> 4.0)
+  - UIColor_Hex_Swift (~> 4.2.0)
+
+SPEC REPOS:
+  trunk:
+    - AAViewAnimator
+    - Alamofire
+    - AlamofireImage
+    - BRYXBanner
+    - Cache
+    - DeviceKit
+    - FontAwesome.swift
+    - Imaginary
+    - JGProgressHUD
+    - Lightbox
+    - paper-onboarding
+    - PTPopupWebView
+    - PureLayout
+    - SCLAlertView
+    - SwiftyJSON
+    - UIColor_Hex_Swift
+
+SPEC CHECKSUMS:
+  AAViewAnimator: 52134b67a9dcedeccd273675f314d111b10b94b6
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  BRYXBanner: 4fbd266f96ce000e4c6cc9a0558c446bd88d9801
+  Cache: 807c5d86d01a177f06ede9865add3aea269bbfd4
+  DeviceKit: da103891aa928d89f64ea8dd8aca738c5f3d8ac0
+  FontAwesome.swift: 2a3235131a6caffc6b2ccba318e94d793b2fd342
+  Imaginary: dae33d06dbc2ada22f98afef5eb45cc061311a2c
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  Lightbox: d317750e4132bfb871a5307cfe0a2c7d6a583c65
+  paper-onboarding: d3f16416e6f42add686117e8b32bfffaad899a79
+  PTPopupWebView: 9db92ddc0629ed735dee23d4388d67b18158d55c
+  PureLayout: 9b4ad47b2f0388c84ff534af23d96e720c1b875a
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  UIColor_Hex_Swift: bc07fc197421ee896b9ed6dcfa2054b7fbf75145
+
+PODFILE CHECKSUM: ebf7e2cd29e04a6af33dabb06d6da71a6620e623
+
+COCOAPODS: 1.8.4

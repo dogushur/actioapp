@@ -1,0 +1,17 @@
+${PODS_ROOT}/Target Support Files/Pods-actioapp/Pods-actioapp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AAViewAnimator/AAViewAnimator.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework
+${BUILT_PRODUCTS_DIR}/BRYXBanner/BRYXBanner.framework
+${BUILT_PRODUCTS_DIR}/Cache/Cache.framework
+${BUILT_PRODUCTS_DIR}/DeviceKit/DeviceKit.framework
+${BUILT_PRODUCTS_DIR}/FontAwesome.swift/FontAwesome_swift.framework
+${BUILT_PRODUCTS_DIR}/Imaginary/Imaginary.framework
+${BUILT_PRODUCTS_DIR}/JGProgressHUD/JGProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/Lightbox/Lightbox.framework
+${BUILT_PRODUCTS_DIR}/PTPopupWebView/PTPopupWebView.framework
+${BUILT_PRODUCTS_DIR}/PureLayout/PureLayout.framework
+${BUILT_PRODUCTS_DIR}/SCLAlertView/SCLAlertView.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/UIColor_Hex_Swift/UIColor_Hex_Swift.framework
+${BUILT_PRODUCTS_DIR}/paper-onboarding/paper_onboarding.framework
